@@ -1,0 +1,3 @@
+2000
+100
+Enter coordinates(x in the first line and y in the second) and relaunch
